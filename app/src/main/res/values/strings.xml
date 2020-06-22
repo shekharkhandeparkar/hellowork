@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E Club</string>
+
+    <string name="login_title">Please enter your email and \npassword to login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login_msg">By logging in, you confirm that you\nagree with the Waled SA Terms and\nConditions </string>
+    <string name="not_yet_trained_in_eclub">Not yet trained in eClub?</string>
+
+</resources>
